@@ -2,8 +2,8 @@
 
 **Goal** To compare the results of Multilevel Modelling and Machine Learning regression to analyse the suburbanisation of poverty using Equity and Accessibility data in Los Angeles County.
 
-### Instructors
-- [Christina Last] - [University of Bristol]
+### Authors
+- Christina Last - University of Bristol
 - Supervisor: [Levi John Wolf](https://ljwolf.org) - [University of Bristol](http://www.bristol.ac.uk/geography/levi-j-wolf/overview.html)
 
 Following this will require recent installations of:
@@ -41,7 +41,7 @@ Otherwise, you can download the repository as a .zip file by heading over
 to the GitHub repository (https://github.com/ChristinaLast/Equity-Accessibility-Los-Angeles.git) in
 your browser and click the green "Download" button in the upper right:
 
-## Test the tutorial environment
+## Test the environment
 
 To make sure everything was installed correctly, open a terminal, and change its directory (`cd`) so that your working directory is the tutorial materials you downloaded in the step above. Then enter the following:
 
@@ -49,4 +49,4 @@ To make sure everything was installed correctly, open a terminal, and change its
 python check_environment.py
 ```
 
-Make sure that this scripts prints "All good.
+Make sure that this scripts prints "All good."
