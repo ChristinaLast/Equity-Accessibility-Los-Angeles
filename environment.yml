@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - geopandas
+  - sklearn
   - geoplot
   - pysal
   - folium
