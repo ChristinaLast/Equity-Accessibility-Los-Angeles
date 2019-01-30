@@ -23,7 +23,7 @@ Following this will require recent installations of:
 
 If you do not yet have these packages installed, we recommend to use the [conda](http://conda.pydata.org/docs/intro.html) package manager to install all the requirements 
 (you can install [miniconda](http://conda.pydata.org/miniconda.html) or install the (larger) Anaconda
-distribution, found at https://www.anaconda.com/download/). To instal Pystan 2.18.1, ``pip`` will be required. 
+distribution, found at https://www.anaconda.com/download/). To instal Pystan 2.18.1, contextily, sklearn and mgwr, ``pip`` will be required. 
 
 ## Downloading the materials
 
