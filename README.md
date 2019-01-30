@@ -25,12 +25,6 @@ If you do not yet have these packages installed, we recommend to use the [conda]
 (you can install [miniconda](http://conda.pydata.org/miniconda.html) or install the (larger) Anaconda
 distribution, found at https://www.anaconda.com/download/). To instal Pystan 2.18.1, ``pip`` will be required. 
 
-Once this is installed, the following command will install all required packages in your Python environment:
-
-```
-conda env create -f environment.yml
-```
-
 ## Downloading the materials
 
 If you have git installed, you can get the tutorial materials by cloning this repo:
@@ -39,11 +33,23 @@ If you have git installed, you can get the tutorial materials by cloning this re
 
 Otherwise, you can download the repository as a .zip file by heading over
 to the GitHub repository (https://github.com/ChristinaLast/Equity-Accessibility-Los-Angeles.git) in
-your browser and click the green "Download" button in the upper right:
+your browser and click the green "Download" button in the upper right.
 
 ## Test the environment
 
-To make sure everything was installed correctly, open a terminal, and change its directory (`cd`) so that your working directory is the tutorial materials you downloaded in the step above. Then enter the following:
+To make sure everything was installed correctly, open a terminal, and change its directory (`cd`) so that your working directory is the tutorial materials you downloaded in the step above.
+
+```
+cd "./Equity-Accessibility-Los-Angeles"
+```
+
+Once this is installed, the following command will install all required packages in your Python environment:
+
+```
+conda env create -f environment.yml
+```
+
+Then enter the following:
 
 ```sh
 python check_environment.py
