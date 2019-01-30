@@ -1,6 +1,6 @@
 # Using measures of Equity to predict Accessibility in Los Angeles County, a comparative study of Multilevel Modelling and Artificial Neural Networks
 
-**Goal** To compare the results of Multilevel Modelling and Machine Learning regression to analyse the suburbanisation of poverty using Equity and Accessibility data in Los Angeles County.
+**Goal:** To compare the results of Multilevel Modelling and Machine Learning regression to analyse the suburbanisation of poverty using Equity and Accessibility data in Los Angeles County.
 
 ### Authors
 - Christina Last - University of Bristol
