@@ -18,5 +18,5 @@ else:
             block_groups = geopandas.read_file("zip://./data/2010_block_groups.zip")
             print("All good.")
         except Exception as e:
-            print("Couldn't read blocks shapefile.")
+            print("Couldn't read block groups shapefile.")
             print(e)
