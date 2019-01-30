@@ -4,7 +4,6 @@ channels:
   - conda-forge
 dependencies:
   - geopandas
-  - sklearn
   - geoplot
   - pysal
   - folium
@@ -14,6 +13,7 @@ dependencies:
   - pip:
     - contextily
     - libpysal
+    - sklearn
     - mgwr
     - mapclassify
     - esda
