@@ -48,11 +48,3 @@ Once this is installed, the following command will install all required packages
 ```
 conda env create -f environment.yml
 ```
-
-Then enter the following:
-
-```sh
-python check_environment.py
-```
-
-Make sure that this scripts prints "All good."
