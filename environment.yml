@@ -11,9 +11,7 @@ dependencies:
   - rasterio
   - pip
   - pip:
-    - contextily
     - libpysal
     - sklearn
-    - mgwr
     - mapclassify
     - esda
